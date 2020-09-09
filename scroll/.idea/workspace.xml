@@ -2,68 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ba6ab05-e278-4850-97a2-1a0327ec8ca2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Reviews/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reviews/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reviews/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../change_color/hex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../change_color/hex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../change_color/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../change_color/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../change_color/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/angular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/aurelia.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/backbone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/ember.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/js-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/vue.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../memory-game/dddd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../memory-game/dddd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../memory-game/dddd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../memory-game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../memory-game/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../memory-game/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/images/item-9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/menu-item.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menu/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modal/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modal/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navBar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navBar/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navBar/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../questions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../questions/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../questions/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scroll.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hero-bcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sidebar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sidebar/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sidebar/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../video/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../video/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../video/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -85,14 +23,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SASS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,14 +44,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599127847655</updated>
-      <workItem from="1599127852301" duration="5317000" />
+      <workItem from="1599127852301" duration="5878000" />
+      <workItem from="1599139150723" duration="25000" />
+      <workItem from="1599139239326" duration="81000" />
+      <workItem from="1599139664896" duration="100000" />
+      <workItem from="1599139787537" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1599139712876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1599139712876" />
+    <state x="745" y="133" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599139251352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="745" y="133" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1599139251352" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599140395140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599140395140" />
+    <state x="522" y="38" key="SettingsEditor" timestamp="1599140363225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599140363224" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599127859436">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
